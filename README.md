@@ -4,18 +4,18 @@
 # Kurzly
 
 > A tool for Shortening Your Long URLs.
-> 
+> Kurzly is a website which shortens your long URLs into short or mini URLs with custom names for better experience.
+> Keeping Short URLs also Helps you to maintain or remember a clear record of your each URL.
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Features
-- Notices of Schools that are circulated.
-- Previous Years Papers of Schools.
-- Weekly Interviews of Schools Alumni
-- Memes on Subjects and Education System, So that Students can get a clear concept of Subjects while having fun.
-- A Discussion Box to post your queries or solve one.
+- Login into your account.
+- Paste your long URL in the website
+- Type Custom name for the URL
+- Get your short URL with custom name.
 
 ## Screenshots
 <img src="" alt="Project Screenshots">
@@ -32,8 +32,9 @@ $ flutter build apk --release
 ```
 
 ## Contributors
-- <a href="https://github.com/DhiranshSaxena">Dhiransh Saxena</a>
-- <a href="https://github.com/AwsmAsim">Asim Junaid</a>
+- <a href="https://github.com/HemangPaliwal">Hemang Paliwal</a>
+- <a href="https://github.com/AwsmAsim">Pallavi MS</a>
+- <a href="https://github.com/bg12345">Bhavan Gupta</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
