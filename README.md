@@ -3,8 +3,8 @@
 
 # Kurzly
 
-> An Application for Students by Students.
-> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is contains all the all required features that will help student in solution of queries that a School Students faces in his/her Daily Life.
+> A tool for Shortening Your Long URLs.
+> 
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
